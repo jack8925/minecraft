@@ -1,0 +1,2 @@
+mapName=
+javaVersion=
