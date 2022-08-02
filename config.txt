@@ -1,2 +1,6 @@
-mapName=
-javaVersion=
+mapName=null
+javaVersion=null
+javaURL=null
+gameVersion=null
+modesVersion=null
+forgeVersion=null
